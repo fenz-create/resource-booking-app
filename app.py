@@ -6,7 +6,7 @@ from utils import display_booking_form, display_admin_panel
 # Initialize database
 init_db()
 
-st.set_page_config(page_title="Resource Booking System", layout="wide")
+st.set_page_config(page_title="FENZ CRM Resource Booking System", layout="wide")
 
 st.title("📅 Resource Booking System")
 
