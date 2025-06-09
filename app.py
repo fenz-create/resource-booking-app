@@ -8,7 +8,7 @@ init_db()
 
 st.set_page_config(page_title="FENZ CRM Resource Booking System", layout="wide")
 
-st.title("📅 Resource Booking System")
+st.title("📅 FENZ Resource Booking System")
 
 tabs = st.tabs(["User Booking", "Admin Panel"])
 
